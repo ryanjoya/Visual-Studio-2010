@@ -17,13 +17,13 @@ namespace Day1
             switch (userValue)
             {
                 case "1":
-                    message = "You won a new car!";
+                    message = "Congratulations, you've won!";
                     break;
                 case "2":
-                    message = "You won a new boat!";
+                    message = "You've won one free internet!";
                     break;
                 case "3":
-                    message = "You won a new plane!";
+                    message = "You've won a jar of dirt!";
                     break;
                 default:
                     message = "You lose! Good day, sir!";
